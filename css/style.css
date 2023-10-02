@@ -1,0 +1,29 @@
+body{
+    background-color: #264a46cf;
+}
+
+
+
+.card{
+    margin-bottom: 2em;
+    background-color: beige;
+}
+
+h1{
+    margin-top: 25px;
+    font: 900;
+    margin-bottom: 40px;
+}
+ .nav{
+    margin-top: 2em;
+    margin-bottom: 4em;
+    color: rgba(185, 181, 235, 0.969);
+    font-weight: bolder;
+}
+
+
+
+img{
+    max-width: 70%;
+    min-width: 60%;
+}
